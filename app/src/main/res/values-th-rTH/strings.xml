@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ทาย</string>
+    <string name="exit_message">ออกจาก Guess Number</string>
+</resources>

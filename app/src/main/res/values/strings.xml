@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">guessNumber</string>
+    <string name="exit_message">Exit Guess Number</string>
+</resources>
